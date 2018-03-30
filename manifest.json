@@ -1,13 +1,19 @@
 {
   "name": "Nates Facebook Suppressor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
   "description": "Removes the stuff I don't like from Facebook",
+  "web_accessible_resources" : [
+    "hideElements.css"
+  ],
   "content_scripts": [
     {
       "matches": [
         "https://www.facebook.com/*"
-			],
+      ],
+      "css" : [
+        "hideElements.css"
+      ],
       "js": [
         "execute.js"
       ],
