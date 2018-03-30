@@ -2,11 +2,11 @@
 document.addEventListener('DOMContentLoaded', function() {
 	// The css, hiding the sections of Facebook that I don't like
 	var css = 
-		'#pagelet_trending_tags_and_topics,' +
-		'#pagelet_video_home_continue_watching_with_fallback_rhc,' +
-		'#pagelet_ego_pane {' +
-		  'display: none;' +
-		'}';
+	  '#pagelet_trending_tags_and_topics,' +
+	  '#pagelet_video_home_continue_watching_with_fallback_rhc,' +
+	  '#pagelet_ego_pane {' +
+	    'display: none;' +
+	  '}';
 	// Create the <style> DOM element with the CSS
 	var style = document.createElement('style');
 	style.type = 'text/css';
