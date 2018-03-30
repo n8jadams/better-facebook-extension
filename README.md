@@ -11,7 +11,7 @@ I do not plan on maintaining this.
 3. Unzip the file and put it somewhere where you won't delete it on your computer
 4. Open `chrome://extensions` in Chrome
 5. In the top right corner, there's a switch for `Developer mode`. Activate that switch.
-6. Drag and Drop that unzipped folder onto the screen.
+6. Drag and Drop that unzipped folder onto the screen of Chrome.
 7. You'll see the `Nates Facebook Suppressor` plugin. Activate it and navigate to Facebook.
 
 You're done!
