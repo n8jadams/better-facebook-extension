@@ -1,5 +1,6 @@
 #pagelet_trending_tags_and_topics,
 #pagelet_video_home_continue_watching_with_fallback_rhc,
-#pagelet_ego_pane {
+#pagelet_ego_pane,
+#pagelet_video_home_suggested_for_you_rhc {
   display: none;
 }
