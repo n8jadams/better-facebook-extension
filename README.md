@@ -1,4 +1,4 @@
-# Nates Facebook Suppressor Extension
+# better-facebook-extension
 ### Created 3/29/2018
 
 The `Trending`, `Shows From Facebook Watch`, and `Sponsored` sections on the sidebar of the Facebook wall irritate me, so I lazily threw this quick Chrome extension together to remove them.
